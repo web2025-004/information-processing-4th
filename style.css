@@ -2,11 +2,9 @@ body {
   background-color: black;
 h1 {
   color: red;
-  text-align: centor;
 h1 {
   border-bottom: solid thin orange;
 }
 h2 {
   color: blue;
-  text-align: left;
 }
